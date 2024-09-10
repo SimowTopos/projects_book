@@ -46,12 +46,19 @@ As part of a Data Science certification at Ecole Polytechnique, I conducted a co
 
 Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
 
-As part of an IOT certification at Ecole Polytechnique ......TODO
+As part of an IOT certification at Ecole Polytechnique, I developped an IOT prototype based on BLE to stress test a data acquisition system to monitor various crop types.
+
+[Click here to view the report](./polythech-executive/internet-des-objets/ALAOUI-MOHAMED-IOT2-XEXED.pdf)
+
+[Click here to view the slides](./polythech-executive/internet-des-objets/Slide-Alaoui-IOT2.pdf)
+
+[Click here to access the code](https://github.com/SimowTopos/iot-project-crops-monitoring)
+
+A Lora real condition prototype had been developped with a partener :
+[Contact me if you want an access to this code repo](https://github.com/SimowTopos/iot-project-crops-monitoring)
 
 ## Liatrust White Paper in 2019
 
 Main Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
 
 The contributors are mentionned in the white paper.
-
-......TODO

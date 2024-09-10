@@ -57,6 +57,14 @@ As part of an IOT certification at Ecole Polytechnique, I developped an IOT prot
 A Lora real condition prototype had been developped with a partener :
 [Contact me if you want an access to this code repo](https://github.com/SimowTopos/iot-project-crops-monitoring)
 
+## Kubflow machine learning internship project
+
+xxxx
+
+## Multy-Party-Compuiting project (MPC)
+
+xxxx
+
 ## Liatrust White Paper in 2019
 
 Main Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)

@@ -61,4 +61,8 @@ A Lora real condition prototype had been developped with a partener :
 
 Main Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
 
-The contributors are mentionned in the white paper.
+The contributors are mentionned in the white paper
+
+## Fast Read Solomon algo used for ZK-STARK written in rust in 2024
+
+All the details is here : [Readme](https://github.com/SimowTopos/fri_basic_rustling)

@@ -73,4 +73,7 @@ The contributors are mentionned in the white paper
 
 ## Fast Read Solomon algo used for ZK-STARK written in rust in 2024
 
-All the details is here : [Readme](https://github.com/SimowTopos/fri_basic_rustling)
+FRI is a powerful algorithm used in various fields, including cryptography and error correction. By leveraging polynomial encoding, FRI allows for efficient verification of constraints to proof some claimed computations.
+FRI is used in Zero Knowledge Proof STARK protocole.
+
+All the details are here : [Readme](https://github.com/SimowTopos/fri_basic_rustling)

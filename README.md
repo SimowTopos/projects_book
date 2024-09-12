@@ -57,19 +57,18 @@ As part of an IOT certification at Ecole Polytechnique, I developped an IOT prot
 A Lora real condition prototype had been developped with a partener :
 [Contact me if you want an access to this code repo](https://github.com/SimowTopos/iot-project-crops-monitoring)
 
-## Kubflow machine learning internship project
-
-xxxx
-
-## Multy-Party-Compuiting project (MPC)
-
-xxxx
-
 ## Liatrust White Paper in 2019
 
 Main Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
-
 The contributors are mentionned in the white paper
+
+The Liatrust white paper outlines a method for managing documents as certificates to assert ownership of specific actions. A key use case is the certificate of origin, commonly used in international supply chains.
+
+The white paper presents a distributed ledger solution incorporating a Multi-Party Computing (MPC) wallet to securely manage the private keys of the various actors involved. These actors are responsible for issuing, validating, and viewing the certificates, ensuring security and transparency throughout the process.
+
+[Click here to view the White Paper](./liatrust/Liatrust-White-Paper-by-CultyData.pdf)
+
+English version is comming soon or you can add an issue in this repo so I can do translation asap.
 
 ## Fast Read Solomon algo used for ZK-STARK written in rust in 2024
 

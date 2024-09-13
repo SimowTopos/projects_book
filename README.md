@@ -1,46 +1,26 @@
 # projects_book
 
 This repo contains some academic and professional documents/reports done by me ([Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/)).
-.
-Some of them are collaboration work under my supervision and tutoring.
 
-## Internship at SNCF 2003
+## Fast Read Solomon algo used for ZK-STARK written in rust in 2024
 
-Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
+FRI is a powerful algorithm used in various fields, including cryptography and error correction. By leveraging polynomial encoding, FRI allows for efficient verification of constraints to proof some claimed computations.
+FRI is used in Zero Knowledge Proof STARK protocole.
 
-Second-Year Engineering Internship: Automatic Generation of Signal/Speed Diagrams Using AutoCAD
-This project aimed to study the behavior of TGV drivers by analyzing data extracted from the trains' black boxes.
-It was my first professional experience in software engineering, where I gained valuable skills in:
+All the details are here : [Readme](https://github.com/SimowTopos/fri_basic_rustling)
 
-Object-oriented programming with C++
-Database management using Oracle DBMS
-Software engineering tools and methodologies
+## Liatrust White Paper in 2019
 
-[Click here to view the report](./sncf/SNCF_2003.pdf)
+Main Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
+The contributors are mentionned in the white paper
 
-## Internship at INRIA 2004
+The Liatrust white paper outlines a method for managing documents as certificates to assert ownership of specific actions. A key use case is the certificate of origin, commonly used in international supply chains.
 
-Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
+The white paper presents a distributed ledger solution incorporating a Multi-Party Computing (MPC) wallet to securely manage the private keys of the various actors involved. These actors are responsible for issuing, validating, and viewing the certificates, ensuring security and transparency throughout the process.
 
-Final year engineering school internship carried out at INRIA Bordeaux in the high-performance computing team  ([scalapplix](https://www.labri.fr/projet/scalapplix/) devenue [hiepacs](https://team.inria.fr/hiepacs/) puis [concace](https://concace.gitlabpages.inria.fr/) et [topal](https://www.inria.fr/fr/topal))
+[Click here to view the White Paper](./liatrust/Liatrust-White-Paper-by-CultyData.pdf)
 
-The project focused on complex multi-scale simulations based on partial differential equations, which are highly resource-intensive. The study specifically addressed the parallelization of adaptive mesh refinement algorithms, optimizing computational efficiency by concentrating efforts on the most critical regions of the mesh. This was achieved using a divide-and-conquer strategy, allowing for parallel processing while overlapping communication with computation to minimize downtime.
-
-This internship was part of my research master's program, enabling me to fulfill the requirements for both my engineering degree at ENSEIRB and my DEA (research master's) at the University of Bordeaux I. The subject bridged multiple disciplines, including physics, mathematics, computer science, and software engineering.
-
-[Click here to view the report](./inria/AMR_2004.pdf)
-
-## Machine Learning Certification Project in 2017
-
-Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
-
-As part of a Data Science certification at Ecole Polytechnique, I conducted a comparative study of time series forecasting (Statistical & Neuronal Networks algorithms) :
-
-[Click here to view the report](./polythech-executive/data-science/ALAOUI-MOHAMED-MEMOIRE-CERTIFICATION-XEXED-DSSP6.pdf)
-
-[Click here to view the slides](./polythech-executive/data-science/Slide-Alaoui-DSSP6.pdf)
-
-[Click here to access the code](https://github.com/jetpackdata/jpdforcaster)
+English version is comming soon or you can add an issue in this repo so I can do translation asap.
 
 ## Internet of Things Certification Project in 2018
 
@@ -57,22 +37,45 @@ As part of an IOT certification at Ecole Polytechnique, I developped an IOT prot
 A Lora real condition prototype had been developped with a partener :
 [Contact me if you want an access to this code repo](https://github.com/SimowTopos/iot-project-crops-monitoring)
 
-## Liatrust White Paper in 2019
+## Machine Learning Certification Project in 2017
 
-Main Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
-The contributors are mentionned in the white paper
+Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
 
-The Liatrust white paper outlines a method for managing documents as certificates to assert ownership of specific actions. A key use case is the certificate of origin, commonly used in international supply chains.
+As part of a Data Science certification at Ecole Polytechnique, I conducted a comparative study of time series forecasting (Statistical & Neuronal Networks algorithms) :
 
-The white paper presents a distributed ledger solution incorporating a Multi-Party Computing (MPC) wallet to securely manage the private keys of the various actors involved. These actors are responsible for issuing, validating, and viewing the certificates, ensuring security and transparency throughout the process.
+[Click here to view the report](./polythech-executive/data-science/ALAOUI-MOHAMED-MEMOIRE-CERTIFICATION-XEXED-DSSP6.pdf)
 
-[Click here to view the White Paper](./liatrust/Liatrust-White-Paper-by-CultyData.pdf)
+[Click here to view the slides](./polythech-executive/data-science/Slide-Alaoui-DSSP6.pdf)
 
-English version is comming soon or you can add an issue in this repo so I can do translation asap.
+[Click here to access the code](https://github.com/jetpackdata/jpdforcaster)
 
-## Fast Read Solomon algo used for ZK-STARK written in rust in 2024
+## Internship at INRIA 2004
 
-FRI is a powerful algorithm used in various fields, including cryptography and error correction. By leveraging polynomial encoding, FRI allows for efficient verification of constraints to proof some claimed computations.
-FRI is used in Zero Knowledge Proof STARK protocole.
+Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
 
-All the details are here : [Readme](https://github.com/SimowTopos/fri_basic_rustling)
+Final year engineering school internship carried out at INRIA Bordeaux in the high-performance computing team  ([scalapplix](https://www.labri.fr/projet/scalapplix/) devenue [hiepacs](https://team.inria.fr/hiepacs/) puis [concace](https://concace.gitlabpages.inria.fr/) et [topal](https://www.inria.fr/fr/topal))
+
+The project focused on complex multi-scale simulations based on partial differential equations, which are highly resource-intensive. The study specifically addressed the parallelization of adaptive mesh refinement algorithms, optimizing computational efficiency by concentrating efforts on the most critical regions of the mesh. This was achieved using a divide-and-conquer strategy, allowing for parallel processing while overlapping communication with computation to minimize downtime.
+
+This internship was part of my research master's program, enabling me to fulfill the requirements for both my engineering degree at ENSEIRB and my DEA (research master's) at the University of Bordeaux I. The subject bridged multiple disciplines, including physics, mathematics, computer science, and software engineering.
+
+[Click here to view the report](./inria/AMR_2004.pdf)
+
+## Internship at SNCF 2003
+
+Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
+
+Second-Year Engineering Internship: Automatic Generation of Signal/Speed Diagrams Using AutoCAD
+This project aimed to study the behavior of TGV drivers by analyzing data extracted from the trains' black boxes.
+It was my first professional experience in software engineering, where I gained valuable skills in:
+
+Object-oriented programming with C++
+Database management using Oracle DBMS
+Software engineering tools and methodologies
+
+[Click here to view the report](./sncf/SNCF_2003.pdf)
+
+
+
+
+

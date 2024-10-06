@@ -9,6 +9,10 @@ FRI is used in Zero Knowledge Proof STARK protocole.
 
 All the details are here : [Readme](https://github.com/SimowTopos/fri_basic_rustling)
 
+## Native Stable in Zk-rollup Layer2 Linea in 2024
+
+All the details are here : [Short Slides](./linea/slide/Alaoui_Mohamed_Linea_Stable_Coin.pdf)
+
 ## Liatrust White Paper in 2019
 
 Main Author : [Mohamed Alaoui](https://www.linkedin.com/in/mohamed-alaoui-simon/?locale=en_US)
@@ -74,8 +78,3 @@ Database management using Oracle DBMS
 Software engineering tools and methodologies
 
 [Click here to view the report](./sncf/SNCF_2003.pdf)
-
-
-
-
-
